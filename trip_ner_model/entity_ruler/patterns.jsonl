@@ -1,0 +1,296 @@
+{"label":"LOCATION","pattern":"cluj"}
+{"label":"LOCATION","pattern":"bucharest"}
+{"label":"LOCATION","pattern":"alba"}
+{"label":"LOCATION","pattern":"arad"}
+{"label":"LOCATION","pattern":"arges"}
+{"label":"LOCATION","pattern":"bacau"}
+{"label":"LOCATION","pattern":"bihor"}
+{"label":"LOCATION","pattern":"bistrita-nasaud"}
+{"label":"LOCATION","pattern":"botosani"}
+{"label":"LOCATION","pattern":"brasov"}
+{"label":"LOCATION","pattern":"braila"}
+{"label":"LOCATION","pattern":"buzau"}
+{"label":"LOCATION","pattern":"caras-severin"}
+{"label":"LOCATION","pattern":"calarasi"}
+{"label":"LOCATION","pattern":"constanta"}
+{"label":"LOCATION","pattern":"covasna"}
+{"label":"LOCATION","pattern":"dambovita"}
+{"label":"LOCATION","pattern":"dolj"}
+{"label":"LOCATION","pattern":"galati"}
+{"label":"LOCATION","pattern":"giurgiu"}
+{"label":"LOCATION","pattern":"gorj"}
+{"label":"LOCATION","pattern":"harghita"}
+{"label":"LOCATION","pattern":"hunedoara"}
+{"label":"LOCATION","pattern":"ialomita"}
+{"label":"LOCATION","pattern":"iasi"}
+{"label":"LOCATION","pattern":"ilfov"}
+{"label":"LOCATION","pattern":"maramures"}
+{"label":"LOCATION","pattern":"mehedinti"}
+{"label":"LOCATION","pattern":"mures"}
+{"label":"LOCATION","pattern":"neamt"}
+{"label":"LOCATION","pattern":"olt"}
+{"label":"LOCATION","pattern":"prahova"}
+{"label":"LOCATION","pattern":"satu mare"}
+{"label":"LOCATION","pattern":"salaj"}
+{"label":"LOCATION","pattern":"sibiu"}
+{"label":"LOCATION","pattern":"suceava"}
+{"label":"LOCATION","pattern":"teleorman"}
+{"label":"LOCATION","pattern":"timis"}
+{"label":"LOCATION","pattern":"tulcea"}
+{"label":"LOCATION","pattern":"valcea"}
+{"label":"LOCATION","pattern":"vaslui"}
+{"label":"LOCATION","pattern":"vrancea"}
+{"label":"LOCATION","pattern":"cluj-napoca"}
+{"label":"LOCATION","pattern":"cluj-napoca, cluj"}
+{"label":"LOCATION","pattern":"turda"}
+{"label":"LOCATION","pattern":"turda, cluj"}
+{"label":"LOCATION","pattern":"sector 1"}
+{"label":"LOCATION","pattern":"sector 1, bucharest"}
+{"label":"LOCATION","pattern":"sector 3"}
+{"label":"LOCATION","pattern":"sector 3, bucharest"}
+{"label":"LOCATION","pattern":"dej"}
+{"label":"LOCATION","pattern":"dej, cluj"}
+{"label":"LOCATION","pattern":"gherla"}
+{"label":"LOCATION","pattern":"gherla, cluj"}
+{"label":"LOCATION","pattern":"campia turzii"}
+{"label":"LOCATION","pattern":"campia turzii, cluj"}
+{"label":"LOCATION","pattern":"huedin"}
+{"label":"LOCATION","pattern":"huedin, cluj"}
+{"label":"LOCATION","pattern":"floresti"}
+{"label":"LOCATION","pattern":"floresti, cluj"}
+{"label":"LOCATION","pattern":"sector 2"}
+{"label":"LOCATION","pattern":"sector 2, bucharest"}
+{"label":"LOCATION","pattern":"sector 4"}
+{"label":"LOCATION","pattern":"sector 4, bucharest"}
+{"label":"LOCATION","pattern":"sector 5"}
+{"label":"LOCATION","pattern":"sector 5, bucharest"}
+{"label":"LOCATION","pattern":"sector 6"}
+{"label":"LOCATION","pattern":"sector 6, bucharest"}
+{"label":"LOCATION","pattern":"alba iulia"}
+{"label":"LOCATION","pattern":"alba iulia, alba"}
+{"label":"LOCATION","pattern":"sebes"}
+{"label":"LOCATION","pattern":"sebes, alba"}
+{"label":"LOCATION","pattern":"aiud"}
+{"label":"LOCATION","pattern":"aiud, alba"}
+{"label":"LOCATION","pattern":"arad"}
+{"label":"LOCATION","pattern":"arad, arad"}
+{"label":"LOCATION","pattern":"ineu"}
+{"label":"LOCATION","pattern":"ineu, arad"}
+{"label":"LOCATION","pattern":"lipova"}
+{"label":"LOCATION","pattern":"lipova, arad"}
+{"label":"LOCATION","pattern":"pitesti"}
+{"label":"LOCATION","pattern":"pitesti, arges"}
+{"label":"LOCATION","pattern":"campulung"}
+{"label":"LOCATION","pattern":"campulung, arges"}
+{"label":"LOCATION","pattern":"curtea de arges"}
+{"label":"LOCATION","pattern":"curtea de arges, arges"}
+{"label":"LOCATION","pattern":"mioveni"}
+{"label":"LOCATION","pattern":"mioveni, arges"}
+{"label":"LOCATION","pattern":"topoloveni"}
+{"label":"LOCATION","pattern":"topoloveni, arges"}
+{"label":"LOCATION","pattern":"bacau"}
+{"label":"LOCATION","pattern":"bacau, bacau"}
+{"label":"LOCATION","pattern":"onesti"}
+{"label":"LOCATION","pattern":"onesti, bacau"}
+{"label":"LOCATION","pattern":"moinesti"}
+{"label":"LOCATION","pattern":"moinesti, bacau"}
+{"label":"LOCATION","pattern":"comanesti"}
+{"label":"LOCATION","pattern":"comanesti, bacau"}
+{"label":"LOCATION","pattern":"oradea"}
+{"label":"LOCATION","pattern":"oradea, bihor"}
+{"label":"LOCATION","pattern":"salonta"}
+{"label":"LOCATION","pattern":"salonta, bihor"}
+{"label":"LOCATION","pattern":"marghita"}
+{"label":"LOCATION","pattern":"marghita, bihor"}
+{"label":"LOCATION","pattern":"bistrita"}
+{"label":"LOCATION","pattern":"bistrita, bistrita-nasaud"}
+{"label":"LOCATION","pattern":"nasaud"}
+{"label":"LOCATION","pattern":"nasaud, bistrita-nasaud"}
+{"label":"LOCATION","pattern":"sangeorz-bai"}
+{"label":"LOCATION","pattern":"sangeorz-bai, bistrita-nasaud"}
+{"label":"LOCATION","pattern":"botosani"}
+{"label":"LOCATION","pattern":"botosani, botosani"}
+{"label":"LOCATION","pattern":"dorohoi"}
+{"label":"LOCATION","pattern":"dorohoi, botosani"}
+{"label":"LOCATION","pattern":"brasov"}
+{"label":"LOCATION","pattern":"brasov, brasov"}
+{"label":"LOCATION","pattern":"fagaras"}
+{"label":"LOCATION","pattern":"fagaras, brasov"}
+{"label":"LOCATION","pattern":"codlea"}
+{"label":"LOCATION","pattern":"codlea, brasov"}
+{"label":"LOCATION","pattern":"rasnov"}
+{"label":"LOCATION","pattern":"rasnov, brasov"}
+{"label":"LOCATION","pattern":"zarnesti"}
+{"label":"LOCATION","pattern":"zarnesti, brasov"}
+{"label":"LOCATION","pattern":"sacele"}
+{"label":"LOCATION","pattern":"sacele, brasov"}
+{"label":"LOCATION","pattern":"braila"}
+{"label":"LOCATION","pattern":"braila, braila"}
+{"label":"LOCATION","pattern":"ianca"}
+{"label":"LOCATION","pattern":"ianca, braila"}
+{"label":"LOCATION","pattern":"buzau"}
+{"label":"LOCATION","pattern":"buzau, buzau"}
+{"label":"LOCATION","pattern":"ramnicu sarat"}
+{"label":"LOCATION","pattern":"ramnicu sarat, buzau"}
+{"label":"LOCATION","pattern":"resita"}
+{"label":"LOCATION","pattern":"resita, caras-severin"}
+{"label":"LOCATION","pattern":"caransebes"}
+{"label":"LOCATION","pattern":"caransebes, caras-severin"}
+{"label":"LOCATION","pattern":"calarasi"}
+{"label":"LOCATION","pattern":"calarasi, calarasi"}
+{"label":"LOCATION","pattern":"oltenita"}
+{"label":"LOCATION","pattern":"oltenita, calarasi"}
+{"label":"LOCATION","pattern":"constanta"}
+{"label":"LOCATION","pattern":"constanta, constanta"}
+{"label":"LOCATION","pattern":"mangalia"}
+{"label":"LOCATION","pattern":"mangalia, constanta"}
+{"label":"LOCATION","pattern":"medgidia"}
+{"label":"LOCATION","pattern":"medgidia, constanta"}
+{"label":"LOCATION","pattern":"navodari"}
+{"label":"LOCATION","pattern":"navodari, constanta"}
+{"label":"LOCATION","pattern":"cernavoda"}
+{"label":"LOCATION","pattern":"cernavoda, constanta"}
+{"label":"LOCATION","pattern":"eforie"}
+{"label":"LOCATION","pattern":"eforie, constanta"}
+{"label":"LOCATION","pattern":"sfantu gheorghe"}
+{"label":"LOCATION","pattern":"sfantu gheorghe, covasna"}
+{"label":"LOCATION","pattern":"targu secuiesc"}
+{"label":"LOCATION","pattern":"targu secuiesc, covasna"}
+{"label":"LOCATION","pattern":"targoviste"}
+{"label":"LOCATION","pattern":"targoviste, dambovita"}
+{"label":"LOCATION","pattern":"moreni"}
+{"label":"LOCATION","pattern":"moreni, dambovita"}
+{"label":"LOCATION","pattern":"pucioasa"}
+{"label":"LOCATION","pattern":"pucioasa, dambovita"}
+{"label":"LOCATION","pattern":"craiova"}
+{"label":"LOCATION","pattern":"craiova, dolj"}
+{"label":"LOCATION","pattern":"bailesti"}
+{"label":"LOCATION","pattern":"bailesti, dolj"}
+{"label":"LOCATION","pattern":"calafat"}
+{"label":"LOCATION","pattern":"calafat, dolj"}
+{"label":"LOCATION","pattern":"galati"}
+{"label":"LOCATION","pattern":"galati, galati"}
+{"label":"LOCATION","pattern":"tecuci"}
+{"label":"LOCATION","pattern":"tecuci, galati"}
+{"label":"LOCATION","pattern":"giurgiu"}
+{"label":"LOCATION","pattern":"giurgiu, giurgiu"}
+{"label":"LOCATION","pattern":"bolintin-vale"}
+{"label":"LOCATION","pattern":"bolintin-vale, giurgiu"}
+{"label":"LOCATION","pattern":"targu jiu"}
+{"label":"LOCATION","pattern":"targu jiu, gorj"}
+{"label":"LOCATION","pattern":"motru"}
+{"label":"LOCATION","pattern":"motru, gorj"}
+{"label":"LOCATION","pattern":"miercurea ciuc"}
+{"label":"LOCATION","pattern":"miercurea ciuc, harghita"}
+{"label":"LOCATION","pattern":"gheorgheni"}
+{"label":"LOCATION","pattern":"gheorgheni, harghita"}
+{"label":"LOCATION","pattern":"odorheiu secuiesc"}
+{"label":"LOCATION","pattern":"odorheiu secuiesc, harghita"}
+{"label":"LOCATION","pattern":"deva"}
+{"label":"LOCATION","pattern":"deva, hunedoara"}
+{"label":"LOCATION","pattern":"hunedoara"}
+{"label":"LOCATION","pattern":"hunedoara, hunedoara"}
+{"label":"LOCATION","pattern":"petrosani"}
+{"label":"LOCATION","pattern":"petrosani, hunedoara"}
+{"label":"LOCATION","pattern":"lupeni"}
+{"label":"LOCATION","pattern":"lupeni, hunedoara"}
+{"label":"LOCATION","pattern":"slobozia"}
+{"label":"LOCATION","pattern":"slobozia, ialomita"}
+{"label":"LOCATION","pattern":"fetesti"}
+{"label":"LOCATION","pattern":"fetesti, ialomita"}
+{"label":"LOCATION","pattern":"iasi"}
+{"label":"LOCATION","pattern":"iasi, iasi"}
+{"label":"LOCATION","pattern":"pascani"}
+{"label":"LOCATION","pattern":"pascani, iasi"}
+{"label":"LOCATION","pattern":"targu frumos"}
+{"label":"LOCATION","pattern":"targu frumos, iasi"}
+{"label":"LOCATION","pattern":"buftea"}
+{"label":"LOCATION","pattern":"buftea, ilfov"}
+{"label":"LOCATION","pattern":"voluntari"}
+{"label":"LOCATION","pattern":"voluntari, ilfov"}
+{"label":"LOCATION","pattern":"pantelimon"}
+{"label":"LOCATION","pattern":"pantelimon, ilfov"}
+{"label":"LOCATION","pattern":"baia mare"}
+{"label":"LOCATION","pattern":"baia mare, maramures"}
+{"label":"LOCATION","pattern":"sighetu marmatiei"}
+{"label":"LOCATION","pattern":"sighetu marmatiei, maramures"}
+{"label":"LOCATION","pattern":"drobeta-turnu severin"}
+{"label":"LOCATION","pattern":"drobeta-turnu severin, mehedinti"}
+{"label":"LOCATION","pattern":"strehaia"}
+{"label":"LOCATION","pattern":"strehaia, mehedinti"}
+{"label":"LOCATION","pattern":"targu mures"}
+{"label":"LOCATION","pattern":"targu mures, mures"}
+{"label":"LOCATION","pattern":"reghin"}
+{"label":"LOCATION","pattern":"reghin, mures"}
+{"label":"LOCATION","pattern":"sighisoara"}
+{"label":"LOCATION","pattern":"sighisoara, mures"}
+{"label":"LOCATION","pattern":"piatra neamt"}
+{"label":"LOCATION","pattern":"piatra neamt, neamt"}
+{"label":"LOCATION","pattern":"roman"}
+{"label":"LOCATION","pattern":"roman, neamt"}
+{"label":"LOCATION","pattern":"targu neamt"}
+{"label":"LOCATION","pattern":"targu neamt, neamt"}
+{"label":"LOCATION","pattern":"slatina"}
+{"label":"LOCATION","pattern":"slatina, olt"}
+{"label":"LOCATION","pattern":"caracal"}
+{"label":"LOCATION","pattern":"caracal, olt"}
+{"label":"LOCATION","pattern":"ploiesti"}
+{"label":"LOCATION","pattern":"ploiesti, prahova"}
+{"label":"LOCATION","pattern":"campina"}
+{"label":"LOCATION","pattern":"campina, prahova"}
+{"label":"LOCATION","pattern":"sinaia"}
+{"label":"LOCATION","pattern":"sinaia, prahova"}
+{"label":"LOCATION","pattern":"busteni"}
+{"label":"LOCATION","pattern":"busteni, prahova"}
+{"label":"LOCATION","pattern":"satu mare"}
+{"label":"LOCATION","pattern":"satu mare, satu mare"}
+{"label":"LOCATION","pattern":"carei"}
+{"label":"LOCATION","pattern":"carei, satu mare"}
+{"label":"LOCATION","pattern":"zalau"}
+{"label":"LOCATION","pattern":"zalau, salaj"}
+{"label":"LOCATION","pattern":"simleu silvaniei"}
+{"label":"LOCATION","pattern":"simleu silvaniei, salaj"}
+{"label":"LOCATION","pattern":"sibiu"}
+{"label":"LOCATION","pattern":"sibiu, sibiu"}
+{"label":"LOCATION","pattern":"medias"}
+{"label":"LOCATION","pattern":"medias, sibiu"}
+{"label":"LOCATION","pattern":"cisnadie"}
+{"label":"LOCATION","pattern":"cisnadie, sibiu"}
+{"label":"LOCATION","pattern":"suceava"}
+{"label":"LOCATION","pattern":"suceava, suceava"}
+{"label":"LOCATION","pattern":"falticeni"}
+{"label":"LOCATION","pattern":"falticeni, suceava"}
+{"label":"LOCATION","pattern":"radauti"}
+{"label":"LOCATION","pattern":"radauti, suceava"}
+{"label":"LOCATION","pattern":"alexandria"}
+{"label":"LOCATION","pattern":"alexandria, teleorman"}
+{"label":"LOCATION","pattern":"rosiorii de vede"}
+{"label":"LOCATION","pattern":"rosiorii de vede, teleorman"}
+{"label":"LOCATION","pattern":"timisoara"}
+{"label":"LOCATION","pattern":"timisoara, timis"}
+{"label":"LOCATION","pattern":"lugoj"}
+{"label":"LOCATION","pattern":"lugoj, timis"}
+{"label":"LOCATION","pattern":"sannicolau mare"}
+{"label":"LOCATION","pattern":"sannicolau mare, timis"}
+{"label":"LOCATION","pattern":"jimbolia"}
+{"label":"LOCATION","pattern":"jimbolia, timis"}
+{"label":"LOCATION","pattern":"recas"}
+{"label":"LOCATION","pattern":"recas, timis"}
+{"label":"LOCATION","pattern":"tulcea"}
+{"label":"LOCATION","pattern":"tulcea, tulcea"}
+{"label":"LOCATION","pattern":"macin"}
+{"label":"LOCATION","pattern":"macin, tulcea"}
+{"label":"LOCATION","pattern":"ramnicu valcea"}
+{"label":"LOCATION","pattern":"ramnicu valcea, valcea"}
+{"label":"LOCATION","pattern":"dragasani"}
+{"label":"LOCATION","pattern":"dragasani, valcea"}
+{"label":"LOCATION","pattern":"vaslui"}
+{"label":"LOCATION","pattern":"vaslui, vaslui"}
+{"label":"LOCATION","pattern":"barlad"}
+{"label":"LOCATION","pattern":"barlad, vaslui"}
+{"label":"LOCATION","pattern":"husi"}
+{"label":"LOCATION","pattern":"husi, vaslui"}
+{"label":"LOCATION","pattern":"focsani"}
+{"label":"LOCATION","pattern":"focsani, vrancea"}
+{"label":"LOCATION","pattern":"adjud"}
+{"label":"LOCATION","pattern":"adjud, vrancea"}
