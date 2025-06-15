@@ -4,8 +4,8 @@ from extractors.RuleBasedTripDetailsExtractor import RuleBasedTripDetailsExtract
 from extractors.SpaCyNERTripDetailsExtractor import SpaCyNERTripDetailsExtractor
 from converters.TripDetailsConverter import TripDetailConverter
 from input_models import PromptInput, PathInput
-from clustering import dbscan
-from best_path import best_path
+from path.clustering import dbscan
+from path.best_path import best_path
 import traceback
 
 app = FastAPI()
