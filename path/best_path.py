@@ -38,7 +38,7 @@ def path_scoring_function(distance, price, rating, count,
     w_price = 0.5
     w_rating = 0.3
     w_count = 0.4
-    score_dist = 1 - (abs(max_dist - distance) / max_dist) * (1 if distance <= max_dist else 2)
+    score_dist = 1 - (abs(max_dist - distance) / max_dist) * (1 if sqrt(2) * distance <= max_dist else 2)
     score_price = 1 - (abs(max_price - price) / max_price) * (1 if price <= max_price else 3)
     score_rating = 1 - (abs(min_rating - rating) / (5 - min_rating)) * (1 if rating >= min_rating else 2)
     score_count = 1 - (abs(max_attractions - count) / max_attractions) * (1 if count <= max_attractions else 2)

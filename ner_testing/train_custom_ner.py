@@ -83,5 +83,5 @@ ruler.add_patterns(LOCATION_PATTERNS)
 
 
 #  Save the combined model (NER + EntityRuler)
-nlp.to_disk("./trip_ner_model")
-print("NER + EntityRuler model saved to ./trip_ner_model")
+nlp.to_disk("../trip_ner_model")
+print("NER + EntityRuler model saved to ../trip_ner_model")
